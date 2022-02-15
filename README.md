@@ -13,4 +13,5 @@ Guide d'installation du projet:
 ```
 
 maintenant vous ouvrez le fichier *dist/index.html* dans votre navigateur.
+Sinon vous pouvez consulter le jeu que j'ai déja déployer en ligne:  [Lien vers le jeu](https://nostalgic-sinoussi-a90ece.netlify.app/)
 
