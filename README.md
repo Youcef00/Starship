@@ -1,6 +1,11 @@
 # Starship Game
 Projet realisé par: **Youcef Moukeut**
 
+### Présentation
+Un jeu 2D ou tu controle une secoupe volante et tu dois tirer sur des UFO
+- Aspects techniques:
+-- Projet realiser avec **Node JS**
+-- Premiére mise en main sur **JavaScript ES**
 
 Guide d'installation du projet:
 - Executer les commandes suivantes dans le shell a la racine du projet:
